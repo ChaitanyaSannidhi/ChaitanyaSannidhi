@@ -19,7 +19,6 @@ I absolutely **love geography**! 🗺️✨ Did you know that **India** is home 
 ## Connect with Me 🌟
 
  **LinkedIn:** www.linkedin.com/in/chaitanyasannidhi 🔗
- **Twitter:**  @chaitanyasanni8 🐦
  **GitHub:**   https://github.com/ChaitanyaSannidhi 💼
  **Email:**    chaitanyasannidhi8@gmail.com 📧
 
