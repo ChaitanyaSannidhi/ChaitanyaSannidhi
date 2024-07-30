@@ -1,7 +1,7 @@
 ## About Me 👋
 
-![ChaitanyaSannidhi](.img/Blue-Futuristic-Technology-Linkedln-Banner.png#gh-dark-mode-only)
-![ChaitanyaSannidhi](.img/Colorful-Pastel-Modern-Personal-LinkedIn-Banner.png#gh-light-mode-only)
+![ChaitanyaSannidhi](Blue-Futuristic-Technology-Linkedln-Banner.png#gh-dark-mode-only)
+![ChaitanyaSannidhi](Colorful-Pastel-Modern-Personal-LinkedIn-Banner.png#gh-light-mode-only)
 
 
 I'm Chaitanya Sannidhi, a passionate Computer Science student with a keen interest in development 💻 and data science 📊. I’m always eager to learn new technologies and tackle exciting challenges!
