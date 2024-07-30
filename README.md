@@ -1,6 +1,6 @@
 ## About Me 👋
 
-<img src = "https://www.canva.com/design/DAGMZluJWG8/92p3jXmPbX7Zl9WSWJxteQ/edit?utm_content=DAGMZluJWG8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img src = "Blue Futuristic Technology Linkedln Banner.png">
 
 I'm Chaitanya Sannidhi, a passionate Computer Science student with a keen interest in development 💻 and data science 📊. I’m always eager to learn new technologies and tackle exciting challenges!
 
